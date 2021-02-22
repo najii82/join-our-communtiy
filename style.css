@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+body{
+    font-family: 'Karla', sans-serif;
+    background-color:#E5EFF5;
+    margin: 0;
+}
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wraper{
+    background-color: #ffffff;
+    margin: auto;
+    width: 50vw;
+    margin-top: 50px;
+}
+.box1{
+    padding: 30px;
+}
+.box3{
+    background-color: #4ABEBD;
+    float: left;
+    width: 50%;
+    padding: 30px;
+    color: #ffffff;
+}
+.box2{
+    color: #ffffff;
+    background-color:#2AB2AF;
+    float: left;
+    width: 50%;
+    padding: 30px;
+}
+button{
+    color: white;
+    background-color:  #C0DF34;
+    padding: 12px 90px;
+    font-size: 15px;
+    border-radius: 5px;
+    border:1px solid #C0DF34;
+    margin-top: 57px;
+}
+h2{
+    color: hsl(179, 62%, 43%);
+    line-height: normal;
+    margin-bottom: 15px;
+}
+H4{
+    color: hsl(71, 73%, 54%);
+    margin-bottom: 20px;
+}
+#r1{
+    color: #727272;
+    font-weight: 400;
+    line-height: 1.8rem;
+    font-size: 19px;
+}
+span{
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 700;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+#r2{
+    color: hsl(180, 5%, 80%);
+    font-size:18px;
+    line-height: 1.8;
+}
+#r3{
+    font-size:18px;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+    line-height: 1.5;
+}
+#f{
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
